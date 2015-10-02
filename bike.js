@@ -1,4 +1,3 @@
-
 ;(function () {
   var Tron = window.Tron = window.Tron || {};
 
